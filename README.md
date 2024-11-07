@@ -2,17 +2,16 @@
 
 ## What will (likely) be the title of your project?
 
-"A Game of Poker"
+"Quote Roulette"
 
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-We are going to create an IOS app that is going to allow you to play poker online with friends. If this fails, we are just going to have it play against the computer. 
-
+We are going to create an app that keeps track of funny quotes said by our friends and then it is going to be like the game Photo Roullete but instead with quotes. 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-We will be using Swift in order to create our project. Our software will allow us to create an app that allows for us to play poker with friends online. It will have face features so you can see your friends while you are playing against them. I am not a 100% sure of how it will exactly be executed since I am still in the process of learning swift, but we are hoping that it will allows us to connect and add "friends" within the app so it is easy to play with your friends even if you are not currently with them. 
+We will be using Swift in order to create our project. Out software will allow us to create an App that allows us to play a game similar to photo roullete but instead with quotes from our friends. Our software will most likely allow each user to input some quotes and then it will randomize them and then each individual will choose who they think said each qouote. Our app will have a countdown timer and also a counter that keeps track of the score. 
 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
@@ -30,22 +29,20 @@ Brad Tibbs: tus92740@temple.edu. TA: Elmira Talebianaraki
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-Creating an app that allows you to successfully play a game of poker with the computer. That is the goal of our project. 
-
+Creating an app that allows people to play a game of "Quote Roulette". This is the goal of our project. 
 
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-Being able to play with friends or other people online. I think that we are able to make this happen. 
+Being able to play with friends online as well as maybe finding a way to insert pictures of videos as well as quotes and text. 
 
 
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-Being able to allow each user of the app to display their face sort of like a big group facetime so the others can interact and talk while playing online poker. 
+Being able to allow each user of the app to display their face sort of like a big group facetime so the others can interact and talk while playing the game. Not really sure how this would be executed which is why this would be the BEST outcome for the final project.  
 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-First, we are all going to learn the language of Swift through some youtubers, chatGPT, and through the use of other online elements and websites. The new skills that I am going to need to acquire are learning a completely new language which is Swift. I have already started to learn the language as well as my other partners. I will need to know how to set up an IOS app and how I can figure out how I could actually test it on my phone. Topics I will need to research are a little about the statistics about poker because I know the rules of poker but we want to somehow implement statistics and percentages of the best possible outcome/play for the user while they are playing poker. So essentially, they are going to be given tips according to statistics and the most likely/best possible outcome. I think that I will be focused more on the testing of the app and any flaws that there may be within the code since I sort of know a lot about poker. I will most likely be the research about poker and the other two are going to be focused more on the creation of the code, but I will still do my part in the code as well. We have not completely planned out who is going to do what, but that is my intial thought, but things may change as we get further into the final project. 
-TODO
+First, we are all going to learn the language of Swift through some youtubers, chatGPT, and through the use of other online elements and websites. The new skills that I am going to need to acquire are learning a completely new language which is Swift. I have already started to learn the language as well as my other partners. I will need to know how to set up an IOS app and how I can figure out how I could actually test it on my phone. Some topics that I will need to research are how to implement inputs from the user within the app. I will also need to figure out how to input a timer as well as graphics within the app. More topics that I will need to research are being able to block out certain words or phrases so the game is family friendly as well. I think that we will all do similar parts, but I may focus more on the research aspect rather than the coding aspect, but I will still do my part in every aspect. We have not fully discussed our roles yet however, so roles and goals may change as we get further along this final project. 
