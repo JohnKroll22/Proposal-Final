@@ -46,3 +46,7 @@ Being able to allow each user of the app to display their face sort of like a bi
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
 First, we are all going to learn the language of Swift through some youtubers, chatGPT, and through the use of other online elements and websites. The new skills that I am going to need to acquire are learning a completely new language which is Swift. I have already started to learn the language as well as my other partners. I will need to know how to set up an IOS app and how I can figure out how I could actually test it on my phone. Some topics that I will need to research are how to implement inputs from the user within the app. I will also need to figure out how to input a timer as well as graphics within the app. More topics that I will need to research are being able to block out certain words or phrases so the game is family friendly as well. I think that we will all do similar parts, but I may focus more on the research aspect rather than the coding aspect, but I will still do my part in every aspect. We have not fully discussed our roles yet however, so roles and goals may change as we get further along this final project. 
+
+
+Video URL: 
+https://www.youtube.com/watch?v=T_ndEEppc0g
